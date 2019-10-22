@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node ./how_node_works/modules.js"
+    "start": "node ./promises/index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "slugify": "^1.3.5"
+    "slugify": "^1.3.5",
+    "superagent": "^5.1.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.4"
