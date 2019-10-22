@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node ./how_node_works/modules.js"
   },
   "author": "",
   "license": "ISC",
